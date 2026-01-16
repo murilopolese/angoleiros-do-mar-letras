@@ -19,7 +19,7 @@ body {
   padding: 0;
   min-height: 100%;
   min-width: 100%;
-  font-size: 25px;
+  font-size: 22px;
 }
 body {
   display: flex;
@@ -85,4 +85,10 @@ p {
   color: #000;
   font-family: "Cormorant Garamond", serif;
   font-weight: 500;
+}
+
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 25px;
+    }
 }
