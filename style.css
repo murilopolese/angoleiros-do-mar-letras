@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Cormorant+SC:wght@300;400;500;600;700&display=swap');
+
+.cormorant-sc-bold {
+  font-family: "Cormorant SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cormorant-garamond-500 {
+  font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  min-width: 100%;
+  font-size: 22px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  background: #FFFFFFFF;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+}
+.content {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  row-gap: 0.5em;
+  padding-inline-start: 2em;
+  padding-inline-end: 2em;
+  padding-block-start: 1.8em;
+  padding-block-end: 1.8em;
+  flex-direction: column;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin-bottom: 0.5em;
+}
+
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+.mt-20 {
+  margin-top: 20px !important;
+}
+
+h2 {
+  font-family: "Cormorant SC", serif;
+  font-weight: 700;
+  color: #000;
+  font-size: 1.1em;
+  margin: 0;
+  letter-spacing: 0.1em;
+}
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin: 0;
+  color: #000;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 18px;
+    }
+}
