@@ -111,7 +111,7 @@ E-ê no mar, e-ê no mar
 ## Boat running on the sea
 
 I'll go to Bahia
-Only to see the boat running on the sea
+Just to see boat running on the sea
 
 On the sea, e-ê on the sea
 E-ê on the sea, e-ê on the sea
@@ -126,7 +126,7 @@ Balança a rede ia-iá
 ## I'll set my hammock in the balcony
 
 I'll set my hammock in the balcony
-I want to see my hammock swing
+I want to see my hammock swinging
 Swing the hammock io-iô
 Swing the hammock ia-iá
 

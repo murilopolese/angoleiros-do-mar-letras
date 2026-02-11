@@ -120,9 +120,7 @@ def main(argv):
   <div class="container">
     <div class="content">
 
-      <div style="align-self: center;">
-        <img src="grupo.png" width="200px" alt="Angoleiros do Mar Logo">
-      </div>
+      <img src="grupo.png" width="200px" alt="Angoleiros do Mar Logo">
 
       <!-- PARTS -->""")
 
