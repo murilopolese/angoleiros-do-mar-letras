@@ -46,13 +46,13 @@ Berimbau called
 
 Vai lá! Meu navio vai navegar
 
-Nas água doce, água de sal
+Nas água doce e água de sal
 
 ## Go for it! My ship is going to sail
 
 Go for it! My ship is going to sail
 
-On sweet waters, salty water
+On sweet waters and salty water
 
 # Não quero ver meu barco na areia
 
